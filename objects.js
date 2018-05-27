@@ -1,6 +1,6 @@
 var playlist = {
-  QueenBee: "Run the World (Girls)",
-  Spice_Girls: "Wanna be"
+  Slowdive: "Alison",
+  My Bloody Valentine: "Sometimes"
 }
 
 function updatePlaylist(playlist1, artistName, song){
