@@ -1,4 +1,4 @@
 var playlist = {
-  Yonce: "Run the World (Girls)"
+  QueenBee: "Run the World (Girls)"
   Spice Girls: "Wanna be"
 }
